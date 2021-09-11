@@ -1,0 +1,12 @@
+.dd{
+    width: 300px;
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+
+.c{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(4,.3fr);
+    gap: 30px;
+}
